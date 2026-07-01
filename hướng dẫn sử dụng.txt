@@ -1,0 +1,4 @@
+tải ffmgeg và thêm vào path nếu máy bạn chưa có: dùng lệnh sau trong cmd:
+
+
+winget install Gyan.FFmpeg
